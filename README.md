@@ -1,4 +1,4 @@
-## Solution
+# Solution
 
 The solution is implemented in the `polynomial_solution.cpp` file.
 
